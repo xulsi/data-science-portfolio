@@ -23,6 +23,6 @@ Python | Pandas | Scikit-learn | Statistical Analysis |
 Machine Learning | Hypothesis Testing | Data Visualization
 
 ## Contact
-- LinkedIn: linkedin.com/in/xhulia-sina-8130581a8
+- LinkedIn: linkedin.com/in/xhuliasina
 - Kaggle: kaggle.com/xhulsi
 - Email: xhulia.sina@outlook.com
