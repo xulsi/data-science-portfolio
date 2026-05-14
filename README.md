@@ -1,4 +1,3 @@
-# data-science-portfolio
 # Data Science Portfolio — Xhulia Sina
 
 PhD Researcher in AI & Mathematical Modeling at University of Genoa.
